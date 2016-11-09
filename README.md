@@ -1,4 +1,6 @@
 # 3D-Printing-Fly-Brain
 I did my dissertation with Professor Douglas Armstrong (of the Armstrong Group) and Dr Adam Stokes (of the Stokes Research Group) in 3D printing a modular model of the fly brain using real bioinformatics; gaining experience with Autodesk CAD and 3D printing as applied to structural biological data.
 
-The problem is that fly brain structure is complicated and I proposed that using 3D printing we could create a physical model, enagaging tactile interaction, and allowing easier learning of the structure. My project investigated the viability and limitations of creating such a model. 
+The problem is that fly brain structure is complicated and I proposed that using 3D printing we could create a physical model, enagaging tactile interaction, and allowing easier learning of the structure. My project investigated the viability and limitations of creating such a model with 3D printing technology.
+
+The design was conceptualised as a kind of 3D puzzle which is held together by magnets. Placements for these magnets needed to be modelled directly into the physical structure, before 3D printing takes place, for a quality model to be made possible. This entailed investigating the conversion process for the original data into a form recognisable by CAD software, and the problems which arised during the design process. The pdf file contains my full process of concept, analysis/design, implementation, results, evaluation and justification of design decisions.
